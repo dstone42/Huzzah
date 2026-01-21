@@ -1,0 +1,84 @@
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# LaTeX and XeLaTeX
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.dvi
+*.pdf
+*.ps
+
+# Large files: Audio and Video
+*.mp3
+*.mp4
+*.avi
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.mov
+*.wmv
+*.mkv
+*.webm
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+*.stackdump
+*.lnk
+
+# Linux
+*~
+.directory
+.fuse_hidden*
