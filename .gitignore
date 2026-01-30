@@ -1,3 +1,8 @@
+# environment variable
+.env
+.env.local
+
+
 # R and RStudio
 .Rproj.user/
 .Rhistory
