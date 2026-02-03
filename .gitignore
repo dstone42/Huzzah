@@ -52,7 +52,6 @@ MANIFEST
 *.bbl
 *.blg
 *.dvi
-*.pdf
 *.ps
 
 # Large files: Audio and Video
