@@ -86,3 +86,6 @@ desktop.ini
 *~
 .directory
 .fuse_hidden*
+
+# Data folder
+data/*
