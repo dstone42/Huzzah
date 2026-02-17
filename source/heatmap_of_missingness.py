@@ -55,5 +55,5 @@ plt.ylabel("Antibiotic Name", fontsize=12)
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
-plt.savefig("../Figures/sensitivity_heatmap.png")
+plt.savefig("../Figures/missing_sensitivities_heatmap_small.png")
 plt.show()
