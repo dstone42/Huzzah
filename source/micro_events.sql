@@ -1,0 +1,1 @@
+\copy (SELECT * FROM mimiciv_hosp.microbiologyevents WHERE org_name IS NOT NULL AND ab_name IS NOT NULL AND interpretation IS NOT NULL) TO 'data/micro_events.csv' WITH CSV HEADER
